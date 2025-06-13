@@ -1,0 +1,1508 @@
+{
+  "barriers": [
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 3
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 3
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 3,
+        "y": 1
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 4,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 6,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 6,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 5,
+        "y": 2
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 6,
+        "y": 2
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 2,
+        "y": 3
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 4,
+        "y": 4
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 4,
+        "y": 5
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 6,
+        "y": 4
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 7,
+        "y": 4
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 2
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 8,
+        "y": 3
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 4
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 4
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 3,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 3,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 5,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 5,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 7,
+        "y": 7
+      },
+      "is_destroyed": false,
+      "is_door": true,
+      "is_open": false,
+      "is_wall": false,
+      "to": {
+        "x": 7,
+        "y": 8
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 1,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 1,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 2,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 2,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 2,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 2,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 3,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 3,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 4,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 4,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 4,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 4,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 5,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 5,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 6,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 6,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 7,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 7,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 7,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 7,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 8,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 8,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 9,
+        "y": 0
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 9,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 1
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 1
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 1
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 2
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 2
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 2
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 2
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 3
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 3
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 4
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 4
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 5
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 5
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 5
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 5
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 6
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 6
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 6
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 0,
+        "y": 7
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 1,
+        "y": 7
+      }
+    },
+    {
+      "damage_counters": 0,
+      "from": {
+        "x": 8,
+        "y": 7
+      },
+      "is_destroyed": false,
+      "is_door": false,
+      "is_open": false,
+      "is_wall": true,
+      "to": {
+        "x": 9,
+        "y": 7
+      }
+    }
+  ],
+  "grid": [
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 1
+      },
+      {
+        "bombero": {
+          "ap": 4,
+          "has_victim": false,
+          "id": 81
+        },
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 2
+      },
+      {
+        "bombero": {
+          "ap": 4,
+          "has_victim": false,
+          "id": 80
+        },
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 3
+      },
+      {
+        "bombero": {
+          "ap": 4,
+          "has_victim": false,
+          "id": 82
+        },
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 0,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 2
+      },
+      {
+        "bombero": {
+          "ap": 4,
+          "has_victim": false,
+          "id": 83
+        },
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": true,
+        "victim": false,
+        "x": 1,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 1,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": true,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 2,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": true,
+        "smoke": false,
+        "victim": true,
+        "x": 3,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 3,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": true,
+        "victim": false,
+        "x": 4,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 4,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": true,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": true,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 5,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": true,
+        "victim": false,
+        "x": 6,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 6,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": true,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": true,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 7,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": false,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 8,
+        "y": 7
+      }
+    ],
+    [
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 0
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 1
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 2
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 3
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 4
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 5
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 6
+      },
+      {
+        "bombero": null,
+        "fire": false,
+        "hot_spot": false,
+        "is_outside": true,
+        "poi": false,
+        "smoke": false,
+        "victim": false,
+        "x": 9,
+        "y": 7
+      }
+    ]
+  ],
+  "status": "initialized"
+}
