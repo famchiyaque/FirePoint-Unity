@@ -63,17 +63,24 @@ public class GameManager : MonoBehaviour {
                     var bomberoObj = Instantiate(bomberoPrefab, pos + new Vector3(0, 1.5f, 0), Quaternion.identity);
                     bomberoObjects.Add(bomberoObj);
 
-                    // Check if this bombero is carrying a victim
-                    if (t.victim) {
-                        var victimObj = Instantiate(victimPrefab, bomberoObj.transform.position + new Vector3(0, 0, -0.5f), Quaternion.identity);
-                        victimObj.transform.parent = bomberoObj.transform; // attach to bombero's back
-                        victimObjects.Add(victimObj);
+                    if (t.bombero.has_victim) {
+                            var victimObj = Instantiate(victimPrefab, bomberoObj.transform.position + new Vector3(0, 0, -0.5f), Quaternion.identity);
+                            victimObj.transform.parent = bomberoObj.transform; // attach to bombero's back
+                            victimObjects.Add(victimObj);
                     }
-                } else if (t.victim) {
-                    // Victim not being carried by bombero
-                    var victimObj = Instantiate(victimPrefab, pos, Quaternion.identity);
-                    victimObjects.Add(victimObj);
-                }
+
+                    // Check if this bombero is carrying a victim
+                    // if (t.victim) {
+                    //     var victimObj = Instantiate(victimPrefab, bomberoObj.transform.position + new Vector3(0, 0, -0.5f), Quaternion.identity);
+                    //     victimObj.transform.parent = bomberoObj.transform; // attach to bombero's back
+                    //     victimObjects.Add(victimObj);
+                    // }
+                } 
+                // else if (t.victim) {
+                //     // Victim not being carried by bombero
+                //     var victimObj = Instantiate(victimPrefab, pos, Quaternion.identity);
+                //     victimObjects.Add(victimObj);
+                // }
             }
         }
 
